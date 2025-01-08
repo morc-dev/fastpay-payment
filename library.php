@@ -1,6 +1,7 @@
 <?php
     /* Coded By Mohammed Azad at MORC */
 
+    // You can delete line 4 and 5
     error_reporting(E_ALL);
     ini_set('display_errors', '1');
 
@@ -185,7 +186,7 @@
             return json_decode($response, true);
         }
     }    
-
+    /*
     // USAGE FOR PAYMENT
     $payment = new PaymentRequest();
     $payment->setOrderId("1");
@@ -212,4 +213,5 @@
     } else {
         echo "Validation Error: " . implode(", ", $response['messages']);
     }
+    */
 ?>
