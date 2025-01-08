@@ -1,9 +1,9 @@
 <?php
     /* Coded By Mohammed Azad at MORC */
 
-    // You can delete line 4 and 5
-    error_reporting(E_ALL);
-    ini_set('display_errors', '1');
+    // Uncomment to show Errors
+    // error_reporting(E_ALL);
+    // ini_set('display_errors', '1');
 
     $_CONFIG = ['store_id' => '123456789', 'store_password' => 'a1b2c3d4e5f6g'];
 
