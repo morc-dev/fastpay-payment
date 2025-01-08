@@ -88,4 +88,4 @@ The library returns error messages in the following structure:
 ```
 
 # License
-This project is not licensed feel free to use it and good luck.
+This project is not licensed feel free to use it and good luck. (Just mention MORC - Mohammed Azad)
