@@ -17,7 +17,7 @@ This PHP library provides a simple way to integrate with the FastPay payment gat
 1. Clone or download this repository.
 2. Include the PHP file in your project:
    ```php
-   require_once 'PaymentLibrary.php';
+   require_once 'library.php';
    ```
 
 # Usage
